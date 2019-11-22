@@ -15,7 +15,7 @@ const PortfolioChart = props => {
   //     console.log("instruments ran with id " + props.id);
   //     const token = localStorage.getItem("token");
 
-  //     //får ej pathen fungerar ej?
+  //     //får ej pathen att fungera?
 
   //     fetch("https://beta.stockzoom.com/api/v1/instruments/" + props.id + "/", {
   //       method: "GET",

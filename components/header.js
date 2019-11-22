@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 
 import Link from "next/link";
-import { logout } from "../pages/auth/auth";
+import { logout } from "./auth/auth.js";
 
 
 export default function Header() {
