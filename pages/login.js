@@ -1,6 +1,6 @@
 import Layout from "../components/layout";
 import React, { useState } from "react";
-import { VerifyToken } from "./auth/auth"
+import { VerifyToken } from "../components/auth/auth.js"
 
 
 const Login = () => {
